@@ -1,0 +1,10 @@
+# Python Data Analysis
+
+This repository contains Jupyter Notebooks showcasing data analysis and data visualization using fundamental Python libraries.
+
+### Included Notebooks
+
+* **Numpy_functions.ipynb**: Array operations, mathematical functions, and vectorization.
+* **Pandas_functions.ipynb**: Data manipulation, DataFrames, cleaning, and filtering.
+* **Matplotlib_functions.ipynb**: Basic plots, line charts, scatter plots, and customization.
+* **Seaborn_functions.ipynb**: Statistical data visualization, heatmaps, and categorical plots.
